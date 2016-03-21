@@ -1,0 +1,12 @@
+eclipse.preferences.version=1
+encoding/backdoor.py=utf-8
+encoding/backdoor_shell.py=utf-8
+encoding/danger_test.py=utf-8
+encoding/dll_injector.py=utf-8
+encoding/file_hider.py=utf-8
+encoding/firefox_hock.py=utf-8
+encoding/mc_debugger.py=utf-8
+encoding/mc_debugger_defines.py=utf-8
+encoding/setup.py=utf-8
+encoding/test.py=utf-8
+encoding/test2.py=utf-8
